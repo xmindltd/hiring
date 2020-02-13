@@ -13,3 +13,4 @@ Write those functions that you think they matter most. Elements such as, lines, 
 	1. Email Address
 	2. Phone Number
 3. Please do not include any dependent libraries or executable file in your code.
+4. When it's completed, please send it to: hr@xmind.net
