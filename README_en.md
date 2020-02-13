@@ -13,6 +13,9 @@ If you think you are the right one, you can complete the assignments of the foll
 ### Front-end Developer
 * [Account Book](frontend-1/README_en.md)
 
+### iOS Developer
+* [Simple Mindmap](ios-1/README_en.md)
+
 ### Product Manager
 * [Questions for Product Manager](project-manager/README_en.md)
 
