@@ -19,7 +19,7 @@ We will provide dataset in CSV format where contains fictitious billing data, in
 | Field name | Field label | Column Type | Description | Required |
 | :-: | :---------: | :------------: | :---------------------------------| :---------------------: |
 | Bill Time | `time` | `Date` | The created time of the bill, formatted as ISO8601: `2019-09-08T08:02:17+08:00` | Yes |
-| Bill Type | `type` | `Integer` | The type of the bill. This field is limited to two values: `0` is the income and `1` is the expenditure. | Yes |
+| Bill Type | `type` | `Integer` | The type of the bill. This field is limited to two values: `1` is the income and `0` is the expenditure. | Yes |
 | Bill Category | `category` | `String` |A detailed category of bills. | No |
 | Bill Amount  | `amount` | `Float` | The amount of the bill is in RMB (￥),  accurate to two decimal places. | Yes |
 
@@ -29,7 +29,7 @@ In addition to the dataset above, we also provide another dataset including fiel
 | :---: | :----: | :-------: | :--------------------------------------------- | :--: |
 | Category ID | `id`   | `String`  | The unique identifier of the category, corresponding to the `category` field in the billing data. | Yes |
 | Category Name | `name` | `String`  | Category display name              | Yes |
-| Category    Column | `type` | `Integer` | The type of category is the same as the `type` field in the billing data:`0` represents income and `1` represents expenditure | Yes |
+| Category    Column | `type` | `Integer` | The type of category is the same as the `type` field in the billing data:`1` represents income and `0` represents expenditure | Yes |
 
 ### Basic Requirement
 
