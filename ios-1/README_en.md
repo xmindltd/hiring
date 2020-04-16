@@ -8,9 +8,8 @@ Write those functions that you think they matter most. Elements such as, lines, 
 
 ---
 
-1. Please archive the assignment (code and all the other content) before the upload. Archive in `.rar`, `.zip`, `.gz` and  `.7z` formats are accepted.
-2. Make sure your resume is in the archive as well, and including the information below:
-	1. Email Address
-	2. Phone Number
+1. Please archive the assignment (code and all the other content), and send to hr@xmind.net by cloud disk or github link.
+2. Please attach your resume with the information below:
+  1. Email Address
+  2. Phone Number
 3. Please do not include any dependent libraries or executable file in your code.
-4. When it's completed, please send it to: hr@xmind.net

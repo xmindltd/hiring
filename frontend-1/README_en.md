@@ -53,8 +53,8 @@ If you are applying for a remote job, please complete the following additional r
 
 ## Make sure it runs
 
-1. Please archive the assignment (code and all the other content) before the upload. Archive in `.rar`, `.zip`, `.gz` and  `.7z` formats are accepted.
-2. Make sure your resume is in the archive as well, and including the information below:
-  3. Email Address
-  4. Phone Number
-5. Please do not include any dependent libraries or executable file in your code, such as the `node_modules` folder.
+1. Please archive the assignment (code and all the other content), and send to hr@xmind.net by cloud disk or github link.
+2. Please attach your resume with the information below:
+  1. Email Address
+  2. Phone Number
+3. Please do not include any dependent libraries or executable file in your code, such as the `node_modules` folder.
