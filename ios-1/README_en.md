@@ -10,6 +10,9 @@ Write those functions that you think they matter most. Elements such as, lines, 
 
 1. Please archive the assignment (code and all the other content), and send to hr@xmind.net by cloud disk or github link.
 2. Please attach your resume with the information below:
-  1. Email Address
-  2. Phone Number
+
+   - Email Address
+
+   - Phone Number
+
 3. Please do not include any dependent libraries or executable file in your code.
