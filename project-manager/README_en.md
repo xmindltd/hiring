@@ -1,6 +1,6 @@
 # Questions for Product Managers
 
-We hope you can experience XMind - our desktop product, and find a part that you think it can get better along with optimization solution.
+We hope you can experience XMind 8 - our desktop product, and find a part that you think it can get better along with optimization solution.
 
 Tips: Your work will be evaluated based on the following criteria: **Problem Analysis, Problem Disaasembly, Interaction Understanding and Aesthetics, and Document Writing.** There will be no limits for platforms, themes, and even the formats. 
 
