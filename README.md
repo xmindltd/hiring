@@ -15,12 +15,3 @@
 
 ### iOS 工程师
 * [简易思维导图](ios-1/README.md)
-
-### 产品经理
-* [产品经理招聘题目](project-manager/README.md)
-
-### 市场总监
-* [市场总监招聘题目](marketing-director/README.md)
-
-### UI 设计师
-* [UI 设计师招聘题目](ui-designer/README.md)

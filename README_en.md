@@ -17,12 +17,3 @@ If you think you are the right one, you can complete the assignments of the foll
 
 ### iOS Developer
 * [Simple Mindmap](ios-1/README_en.md)
-
-### Product Manager
-* [Questions for Product Manager](project-manager/README_en.md)
-
-### Marketing Director
-* [Questions for Marketing Director](marketing-director/README_en.md)
-
-### UI Designer
-* [Questions for UI Designer](ui-designer/README_en.md)
