@@ -6,7 +6,7 @@ XMind is a close team of talented and self-driven innovators that strive to deli
 
 We look forward to hearing from you. The recruitment process is: Phone Interview - Skill Test - Assignment - Final Round with Co-founders. 
 
-If you think you are the right one, you can complete the assignments of the following positions and attach your resume to hr@xmind.net. We will reply within 5 working days, and you will reach you for the final interview with the co-founders.
+If you think you are the right one, you can complete the assignments of the following positions and attach your resume to hr@xmind.net. We will reply within 5 working days, and we will reach out to you for the final interview with the co-founders.
 
 ---
 
